@@ -1,0 +1,51 @@
+/* css reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 40px;
+  color: purple;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 h2 h3 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  letter-spacing: -0.15rem;
+  word-spacing: 5rem;
+  text-align: center;
+}
+
+blockquote {
+  margin: 0 0 0 30px;
+  font-style: italic;
+  text-indent: 5rem;
+  line-height: 1.5rem;
+}
+
+span {
+  text-decoration: line-through;
+}
+
+em {
+  text-transform: capitalize;
+}
+
+strong {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+a {
+  color: red;
+  text-decoration: none;
