@@ -1,0 +1,47 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+    color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 h2 h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 0px;
+    word-spacing: 10px;
+}
+
+blockquote {
+    margin: 0 0 0 30px;
+    font-style: italic;
+    line-height: 4rem;
+}
+
+span{
+    text-decoration: line-through orangered;
+}
+em{
+    text-transform: capitalize;
+}
+strong{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+a{
+    color: chartreuse;
+    text-decoration: none;
+}
+
