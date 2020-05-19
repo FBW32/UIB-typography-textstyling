@@ -1,0 +1,44 @@
+/* css reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: saddlebrown;
+}
+
+blockquote {
+  margin: 0 0 0 30px;
+  font-style: italic;
+}
+
+.heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+.span {
+  text-decoration: line-through;
+}
+.strong {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
+h1 {
+  font-size: 3rem;
+}
+h3 {
+  font-size: 1.5rem;
+  text-align: center;
+  word-spacing: 1rem;
+}
+.em {
+  text-transform: capitalize;
+}
