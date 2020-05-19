@@ -20,14 +20,14 @@ h1 {
 h3 {
   font-size: 1.5rem;
   text-align: center;
-  letter-spacing: 0.7rem;
-  word-spacing: 1.2rem;
+  letter-spacing: 0.1rem;
+  word-spacing: 1.5rem;
 }
 
 blockquote {
   margin: 0 0 0 30px;
   font-style: italic;
-  line-height: 1.3rem;
+  line-height: 2rem;
 }
 span {
   text-decoration: line-through;
@@ -40,6 +40,6 @@ strong {
   font-weight: bold;
 }
 a {
-  color: royalblue;
+  color: rgb(78, 225, 65);
   text-decoration: none;
 }
