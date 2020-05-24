@@ -1,10 +1,5 @@
 /* css reset */
 
-body {
-    font-family: 'Noto Sans JP', sans-serif, monospace;
-    color: rgb(78, 78, 78);
-}
-
 h1, h3 {
     font-family: 'Open Sans', sans-serif, monospace;
 }
@@ -25,6 +20,8 @@ h3 {
 
 body {
     padding: 40px;
+    font-family: 'Noto Sans JP', sans-serif, monospace;
+    color: rgb(78, 78, 78);
 }
 
 blockquote {
