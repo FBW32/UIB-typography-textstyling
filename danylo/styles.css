@@ -1,8 +1,12 @@
 /* css reset */
 
 body {
-    font-family: 'Open Sans', sans-serif, monospace;
+    font-family: 'Noto Sans JP', sans-serif, monospace;
     color: rgb(78, 78, 78);
+}
+
+h1, h3 {
+    font-family: 'Open Sans', sans-serif, monospace;
 }
 
 * {
