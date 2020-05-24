@@ -47,4 +47,5 @@ body {
 blockquote {
     margin: 0 0 0 30px;
     font-style: italic;
+    line-height: 1.6;
 }
