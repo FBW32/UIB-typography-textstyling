@@ -1,7 +1,8 @@
 /* css reset */
 
-* {
-    font-family: Courier, Monaco, monospace;
+body {
+    font-family: 'Open Sans', sans-serif, monospace;
+    color: rgb(78, 78, 78);
 }
 
 * {
