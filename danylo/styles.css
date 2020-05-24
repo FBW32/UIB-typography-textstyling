@@ -1,0 +1,51 @@
+/* css reset */
+
+h1, h3 {
+    font-family: 'Open Sans', sans-serif, monospace;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: -2px;
+    word-spacing: 10px;
+}
+
+span {
+    text-decoration: line-through;
+}
+
+em {
+    text-transform: capitalize;
+}
+
+strong {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+    font-family: 'Noto Sans JP', sans-serif, monospace;
+    color: rgb(78, 78, 78);
+}
+
+blockquote {
+    margin: 0 0 0 30px;
+    font-style: italic;
+    line-height: 1.6;
+}
