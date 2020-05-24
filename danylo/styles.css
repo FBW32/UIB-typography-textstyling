@@ -17,9 +17,10 @@ span {
     text-decoration: line-through;
 }
 
-em{
+em {
     text-transform: capitalize;
 }
+
 * {
     margin: 0;
     padding: 0;
