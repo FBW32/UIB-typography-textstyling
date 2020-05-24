@@ -1,6 +1,10 @@
 /* css reset */
 
 * {
+    font-family: Courier, Monaco, monospace;
+}
+
+* {
     margin: 0;
     padding: 0;
 }
